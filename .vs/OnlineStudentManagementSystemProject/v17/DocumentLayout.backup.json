@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|c:\\users\\sumey\\source\\repos\\onlinestudentmanagementsystemproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|c:\\users\\sumey\\source\\repos\\onlinestudentmanagementsystemproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|c:\\users\\sumey\\source\\repos\\onlinestudentmanagementsystemproject\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|c:\\users\\sumey\\source\\repos\\onlinestudentmanagementsystemproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|c:\\users\\sumey\\source\\repos\\onlinestudentmanagementsystemproject\\migrations\\20241002170317_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|solutionrelative:migrations\\20241002170317_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|c:\\users\\sumey\\source\\repos\\onlinestudentmanagementsystemproject\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|solutionrelative:models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|c:\\users\\sumey\\source\\repos\\onlinestudentmanagementsystemproject\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|c:\\users\\sumey\\source\\repos\\onlinestudentmanagementsystemproject\\models\\coursecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|solutionrelative:models\\coursecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|c:\\users\\sumey\\source\\repos\\onlinestudentmanagementsystemproject\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|c:\\users\\sumey\\source\\repos\\onlinestudentmanagementsystemproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|c:\\users\\sumey\\source\\repos\\onlinestudentmanagementsystemproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BBDDF36-0D36-48E1-AF79-F3D592A053B5}|OnlineStudentManagementSystemProject.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 695,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Controllers\\StudentController.cs*",
+              "RelativeToolTip": "Controllers\\StudentController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:01:09.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241002170317_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Migrations\\20241002170317_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241002170317_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Migrations\\20241002170317_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241002170317_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:03:17.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T16:52:49.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:51:39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:51:20.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "Models\\SchoolContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:49:28.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseContent.cs",
+              "DocumentMoniker": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Models\\CourseContent.cs",
+              "RelativeDocumentMoniker": "Models\\CourseContent.cs",
+              "ToolTip": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Models\\CourseContent.cs",
+              "RelativeToolTip": "Models\\CourseContent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:48:22.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:48:00.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:47:42.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:47:22.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\sumey\\Source\\repos\\OnlineStudentManagementSystemProject\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:46:53.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 405,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
