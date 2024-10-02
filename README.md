@@ -44,7 +44,7 @@ Bu projeyi kendi makinenizde çalıştırmak için aşağıdaki adımları takip
 
 1. **Gereksinimler:**
    - Visual Studio 2022 (veya üzeri)
-   - .NET 6 SDK
+   - .NET 8 SDK
    - Microsoft SQL Server (veya SQL Server Express)
    - Postman veya Swagger (API testleri için)
 
